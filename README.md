@@ -37,4 +37,4 @@ Tenho um carinho enorme por esses dois lindos
 
 ### hello there
 
-![image|12x12](https://github.com/ciroDourado/ciroDourado/blob/main/images/general_kenobi.jpg)
+![](https://github.com/ciroDourado/ciroDourado/blob/main/images/general_kenobi.jpg | width=40)
