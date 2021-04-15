@@ -30,12 +30,11 @@ Tenho um carinho enorme por esses dois lindos
 
 ![](https://github.com/ciroDourado/ciroDourado/blob/main/images/meus_amores.jpg)
 
-![]
 
-![]
 
-![]
+
+
 
 ### hello there
 
-![](https://github.com/ciroDourado/ciroDourado/blob/main/images/general_kenobi.jpg)
+![image|50x50](https://github.com/ciroDourado/ciroDourado/blob/main/images/general_kenobi.jpg)
