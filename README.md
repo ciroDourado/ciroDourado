@@ -25,7 +25,7 @@ Então povo, me chamo Ciro, comecei a programar de verdade em 2015 (apesar de j�
 |----------------------------------------------------------------------------------|
 ```
 Esses são meus gatos: Cinzo (fotogênico) e Ferrugem (toda agitada)
-Tenho um carinho enorme por esses dois lindos
+Meu amor por eles não consegue ser medido
 ```
 
 Aqui em baixo vocês podem ver alguns dos projetos pelos quais eu tenho um enorme carinho
