@@ -29,3 +29,6 @@ Meu amor por eles não consegue ser medido
 ```
 
 Aqui em baixo vocês podem ver alguns dos projetos pelos quais eu tenho um enorme carinho
+
+No mais, vocês também podem me achar no LinkedIn [aqui](https://www.linkedin.com/in/ciro-96/)
+E no Instagram [aqui](https://www.instagram.com/ciro.dourado/)
