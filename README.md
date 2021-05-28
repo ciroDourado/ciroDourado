@@ -17,7 +17,8 @@ If you came here and now is reading this stuff, you are rewarded with some secre
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciroDourado&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### oi :3.
+### oi :3
+
 Então povo, me chamo Ciro, comecei a programar de verdade em 2015 (apesar de já ter tido contato com isso desde mais novo, já que na minha família temos muitas pessoas que trabalham com TI) e sigo com isso até hoje.
 
 | ![](https://github.com/ciroDourado/ciroDourado/blob/main/images/meus_amores.jpg) |
